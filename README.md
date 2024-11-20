@@ -2,6 +2,14 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
 
+## Links
+
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/angular-19-first)
+
+[GitHub](https://github.com/igor2000xp/angular-19-first)
+
+***/Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/angular-19-first***
+
 ## Development server
 
 To start a local development server, run:
